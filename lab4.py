@@ -37,7 +37,7 @@ def lu_un_ticket(ticket: str):
 
 if __name__ == "__main__":
 
-    print('Деление на 3')
+    print('\nДеление на 3')
     print(div_3(21))
     print(div_3(412))
 
